@@ -125,7 +125,6 @@ forensic_cli/
     __init__.py
     menu.py
     actions.py
-Project1.py            # wrapper per retrocompatibilità
 outputs/               # output degli elaborati (generata a runtime)
 ```
 
